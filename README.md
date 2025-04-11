@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Ren Ohmura, an associate professor at the Toyohashi University of Technology (TUT), Japan.
+Also, I'm a principal investigator (PI) of the ubiquitous systems laboratory (USL) at TUT.
+My research interest is ubiquitous computing technologies, and thus very wide, from system software for cloud services to AI applications on mobiles!
